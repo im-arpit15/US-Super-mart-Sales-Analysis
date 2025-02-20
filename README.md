@@ -8,9 +8,9 @@ This Power BI project report provides an in-depth, real-time analysis of the per
 
 ## Process
 - Extract the dataset from Excel to Power Query Editor for data processing.
-- Verify data for any missing values and anomalies,and sort out the same.
+- Verified data for any missing values and anomalies,and sort out the same.
 - Ensured data is consistent and clean with respect to data type, data format and values used.
-- Executing the transformation process, data loaded in Power BI desktop for data visualization and modelling.
+- Executing the transformation process, data loaded in Power Pivot Report for data visualization and modelling.
 - Inserted interactive, dynamic charts and an ariel map for actionable insights.
 
 ## Dashboard
