@@ -10,7 +10,7 @@ This Power BI project report dashboard provides an in-depth, real-time analysis 
 - Extract the dataset from Excel to Power Query Editor for data preprocessing.
 - Verify data for any missing values and anomalies,and sort out the same.
 - Ensured data is consistent and clean with respect to data type, data format and values used.
-- Executing the transformation process, data ready to loaded in Power BI desktop for data visualization and modelling.
+- Executing the transformation process, data loaded in Power BI desktop for data visualization and modelling.
 - Inserted interactive, dynamic charts and an ariel map for actionable insights.
 
 ## Dashboard
