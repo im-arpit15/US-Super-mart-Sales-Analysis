@@ -1,7 +1,7 @@
 # US-Super-mart-Sales-Analysis-Dashboard by a powerful AI tool, Power BI
 
 ## Project Objective
-This Power BI project report dashboard provides an in-depth, real-time analysis of the performance of US Super-mart across various cities in different states. The dashboard features multiple interactive charts, slicers, and an aerial map, allowing users to explore sales data and customer demand patterns in a highly dynamic and engaging way. With real-time data visualization, users can drill down into city-specific performance metrics, identify growth trends, and evaluate regional variations. The integration of a detailed aerial map further enhances spatial analysis, helping stakeholders make data-driven decisions to optimize business strategies and operations across the country.
+This Power BI project report provides an in-depth, real-time analysis of the performance of US Super-mart across various cities in different states. The dashboard features multiple interactive charts, slicers, and an aerial map, allowing users to explore sales data and customer demand patterns in a highly dynamic and engaging way. With real-time data visualization, users can drill down into city-specific performance metrics, identify growth trends, and evaluate regional variations. The integration of a detailed aerial map further enhances spatial analysis, helping stakeholders make data-driven decisions to optimize business strategies and operations across the country.
 
 ## Dataset Used
 <a href="https://github.com/im-arpit15/US-Super-mart-Sales-Analysis/blob/main/Sampledata.xlsx">Dataset</a>
